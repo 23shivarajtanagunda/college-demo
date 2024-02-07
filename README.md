@@ -1,1 +1,1 @@
-# college-demo
+printf("hellow world")
